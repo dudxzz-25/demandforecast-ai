@@ -1,0 +1,4 @@
+model,mae,rmse
+linear_regression,63.49,79.47
+random_forest,80.57,95.92
+moving_average_3,134.54,161.36
