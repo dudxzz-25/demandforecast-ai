@@ -1,5 +1,13 @@
 # DemandForecast AI
 
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-Forecasting-3776AB?logo=python&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-Models-F7931E?logo=scikitlearn&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-Analytics-4479A1">
+  <a href="https://github.com/dudxzz-25/demandforecast-ai/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/dudxzz-25/demandforecast-ai/actions/workflows/ci.yml/badge.svg"></a>
+</p>
+
+
 [![CI](https://github.com/dudxzz-25/demandforecast-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/dudxzz-25/demandforecast-ai/actions/workflows/ci.yml)
 
 Projeto de **previsão de demanda mensal** que compara um baseline simples com modelos supervisionados usando features temporais, lags e média móvel.
